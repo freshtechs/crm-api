@@ -14,5 +14,6 @@ const servicePlan200MbpsTvId = 1261
 ## La #2 es basicamente la misma que la #1
 
 ```txt
-En la #1 el cliente se carga como potencial por si alguna vaina mala ocurre en las siguientes llamadas y el cliente no queda registrado como cliente "activo" o regular.
+En la #1 el cliente se carga como potencial por si alguna vaina mala ocurre en las siguientes llamadas
+y el cliente no queda registrado como cliente "activo" o regular.
 ```
